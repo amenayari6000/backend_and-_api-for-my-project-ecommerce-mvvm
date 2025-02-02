@@ -1,0 +1,16 @@
+2025-01-25 15:59:25 - Received data: userId=zCozET00gbUyaamlidXPCOa34tN2, title=Dell UltraSharp Monitor, price=400.00, description=27" 4K UHD
+                                                                                                    Adjustable Stand, category=monitor, image=monitor_img1.jpg, image_two=monitor_img2.jpg, image_three=monitor_img3.jpg, rate=4.00, count=1, sale_state=0
+2025-01-25 18:24:17 - Received data: userId=zCozET00gbUyaamlidXPCOa34tN2, title=Dell UltraSharp Monitor, price=400.00, description=27" 4K UHD
+                                                                                                    Adjustable Stand, category=monitor, image=monitor_img1.jpg, image_two=monitor_img2.jpg, image_three=monitor_img3.jpg, rate=4.00, count=1, sale_state=0
+2025-01-25 18:24:47 - Received data: userId=zCozET00gbUyaamlidXPCOa34tN2, title=PlayStation 5, price=424.99150000000003, description=Latest Gaming Console
+Ultra-HD with 825 GB SSD
+Perfect for high-end gaming performance., category=console, image=http://192.168.100.8/ecommerce_api/images/console_img1.jpg, image_two=http://192.168.100.8/ecommerce_api/images/console_img2.jpg, image_three=http://192.168.100.8/ecommerce_api/images/console_img3.jpg, rate=4.7, count=1, sale_state=1
+2025-01-25 18:24:47 - No matching product found for: title=PlayStation 5, price=424.99150000000003, description=Latest Gaming Console
+Ultra-HD with 825 GB SSD
+Perfect for high-end gaming performance., category_id=3, image=http://192.168.100.8/ecommerce_api/images/console_img1.jpg, image_two=http://192.168.100.8/ecommerce_api/images/console_img2.jpg, image_three=http://192.168.100.8/ecommerce_api/images/console_img3.jpg, rate=4.7, count=1, sale_state=1
+2025-01-25 18:24:47 - Received data: userId=zCozET00gbUyaamlidXPCOa34tN2, title=PlayStation 5, price=424.99150000000003, description=Latest Gaming Console
+Ultra-HD with 825 GB SSD
+Perfect for high-end gaming performance., category=console, image=http://192.168.100.8/ecommerce_api/images/console_img1.jpg, image_two=http://192.168.100.8/ecommerce_api/images/console_img2.jpg, image_three=http://192.168.100.8/ecommerce_api/images/console_img3.jpg, rate=4.7, count=1, sale_state=1
+2025-01-25 18:24:47 - No matching product found for: title=PlayStation 5, price=424.99150000000003, description=Latest Gaming Console
+Ultra-HD with 825 GB SSD
+Perfect for high-end gaming performance., category_id=3, image=http://192.168.100.8/ecommerce_api/images/console_img1.jpg, image_two=http://192.168.100.8/ecommerce_api/images/console_img2.jpg, image_three=http://192.168.100.8/ecommerce_api/images/console_img3.jpg, rate=4.7, count=1, sale_state=1
